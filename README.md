@@ -1,0 +1,2 @@
+# SeleniumCucumberBDDFrameworkWithJava
+In this project, I have created a Meaven Project having Cucumber Feature files and their respective Step Definitions in Java Language and using Selenium to perform all the steps. I have covered all the basic concepts likeTags, Hooks, Background, PageFactory , POM,  Inputing Data from DataTable. Running Feature files with Junit option and also from Command Line.
